@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['Custum_complains.py'],
-             pathex=['C:\\Users\\admin\\Documents\\share\\项目记录系统\\custum_complains'],
+             pathex=['C:\\Python\\Python35-32\\Lib\\site-packages\\PyQt5\\Qt\\bin', 'F:\\Workspace\\GitHub\\ProjectManageSystem'],
              binaries=[],
              datas=[],
              hiddenimports=[],

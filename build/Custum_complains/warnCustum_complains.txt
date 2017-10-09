@@ -1,0 +1,22 @@
+missing module named 'PyQt5.sip' - imported by c:\python\python35-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_qt5plugins.py
+missing module named resource - imported by posix, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+missing module named posix - imported by os, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+missing module named _posixsubprocess - imported by subprocess, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+missing module named 'org.python' - imported by pickle, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+missing module named _winreg - imported by platform, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+missing module named 'java.lang' - imported by platform, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+missing module named termios - imported by tty, serial.serialposix, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py, getpass
+missing module named grp - imported by shutil, tarfile, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py, netrc, getpass
+missing module named ce - imported by os, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+missing module named _dummy_threading - imported by dummy_threading, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+missing module named org - imported by copy, F:\Workspace\GitHub\ProjectManageSystem\Custum_complains.py
+missing module named fcntl - imported by serial.serialposix
+missing module named 'System.IO' - imported by serial.serialcli
+missing module named System - imported by serial.serialcli
